@@ -10,7 +10,7 @@
     color: #ffffff90;
     margin-left: 20px;
     margin-right: 20px;
-    background-image: url('images/background/bg1.jpg');
+    background-image: url('bg1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -218,6 +218,7 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #00fbf7;         /* on hover */
 }
+
 
 
   
