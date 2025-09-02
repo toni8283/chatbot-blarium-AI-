@@ -5,7 +5,7 @@
     box-sizing: border-box;
   }
   body {
-    background-image: url('images/background/bg2.jpg');
+    background-image: url('bg2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -80,4 +80,5 @@
   form button:hover {
     opacity: 0.85;
   }
+
   
